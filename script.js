@@ -34,7 +34,7 @@ function createButton(classes) {
     button.appendChild(icon);
     return button
 }
-// Create button item
+   // Create button item
 function createIcon(classes) {
     const icon = document.createElement('i');
     icon.className = classes;
